@@ -1,0 +1,37 @@
+[
+  {"user_id": "u101", "product_id": "prod_001", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u101", "product_id": "prod_002", "interaction_type": "view", "weight": 1},
+  {"user_id": "u101", "product_id": "prod_012", "interaction_type": "purchase", "weight": 5},
+
+  {"user_id": "u102", "product_id": "prod_001", "interaction_type": "like", "weight": 2},
+  {"user_id": "u102", "product_id": "prod_002", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u102", "product_id": "prod_005", "interaction_type": "cart", "weight": 3},
+
+  {"user_id": "u103", "product_id": "prod_003", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u103", "product_id": "prod_004", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u103", "product_id": "prod_006", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u103", "product_id": "prod_009", "interaction_type": "view", "weight": 1},
+
+  {"user_id": "u104", "product_id": "prod_006", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u104", "product_id": "prod_007", "interaction_type": "view", "weight": 1},
+  {"user_id": "u104", "product_id": "prod_004", "interaction_type": "cart", "weight": 3},
+  {"user_id": "u104", "product_id": "prod_012", "interaction_type": "purchase", "weight": 5},
+
+  {"user_id": "u105", "product_id": "prod_009", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u105", "product_id": "prod_014", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u105", "product_id": "prod_015", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u105", "product_id": "prod_013", "interaction_type": "cart", "weight": 3},
+
+  {"user_id": "u106", "product_id": "prod_010", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u106", "product_id": "prod_014", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u106", "product_id": "prod_015", "interaction_type": "view", "weight": 1},
+
+  {"user_id": "u107", "product_id": "prod_007", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u107", "product_id": "prod_008", "interaction_type": "like", "weight": 2},
+  {"user_id": "u107", "product_id": "prod_012", "interaction_type": "purchase", "weight": 5},
+
+  {"user_id": "u108", "product_id": "prod_001", "interaction_type": "cart", "weight": 3},
+  {"user_id": "u108", "product_id": "prod_003", "interaction_type": "purchase", "weight": 5},
+  {"user_id": "u108", "product_id": "prod_012", "interaction_type": "view", "weight": 1}
+]
+
